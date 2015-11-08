@@ -1,0 +1,10 @@
+#header {
+    background-image: url("http://static.vecteezy.com/system/resources/previews/000/094/491/original/polygonal-texture-background-vector.jpg");
+    background-repeat: no-repeat;
+    background-position: right left;
+    background-attachment: fixed;
+    text-align: center;
+   color: solid blue;
+font-family: "ARIAL", Times, serif;
+    padding: 10px;
+}
